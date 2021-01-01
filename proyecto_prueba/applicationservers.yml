@@ -1,0 +1,6 @@
+- hosts: applicationservers
+  roles:
+    - predeploy
+    - common
+    - jboss
+    - postdeploy

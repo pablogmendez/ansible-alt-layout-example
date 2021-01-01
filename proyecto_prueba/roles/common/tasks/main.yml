@@ -1,0 +1,5 @@
+---
+# tasks file for common
+- name: Install webserver
+  shell: echo holaaaa {{nombre}}
+

@@ -1,0 +1,4 @@
+- hosts: all
+  tasks:
+          - name: Install webserver
+            shell: echo holaaaa {{nombre}}

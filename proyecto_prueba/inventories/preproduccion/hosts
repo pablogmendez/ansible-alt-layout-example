@@ -1,5 +1,5 @@
 [webservers]
-localhost
+192.168.0.40
 
 [applicationservers]
-localhost
+192.168.0.40
